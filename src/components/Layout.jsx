@@ -1,42 +1,42 @@
 import React from 'react';
 
 const Layout = ({ children, title = "Price Compliance", contentTitle, onBack, onHome }) => {
-    return (
-        <div className="layout-container">
-            <header className="app-header">
-                <div className="header-content">
-                    <div className="logo-section">
-                        <h1 className="app-title">Right place, right price</h1>
-                    </div>
-                    {onHome && (
-                        <button onClick={onHome} className="home-button" aria-label="Go Home" title="Return to Home">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="home-icon">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
-                            </svg>
-                        </button>
-                    )}
-                </div>
-            </header>
+  return (
+    <div className="layout-container">
+      <header className="app-header">
+        <div className="header-content">
+          <div className="logo-section">
+            <h1 className="app-title">Right place, right price</h1>
+          </div>
+          {onHome && (
+            <button onClick={onHome} className="home-button" aria-label="Go Home" title="Return to Home">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="home-icon">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
+              </svg>
+            </button>
+          )}
+        </div>
+      </header>
 
-            <main className="main-content">
-                {contentTitle && (
-                    <div className="page-header">
-                        {onBack && (
-                            <button onClick={onBack} className="back-button">
-                                &larr; Back
-                            </button>
-                        )}
-                        <h2 className="content-title">{contentTitle}</h2>
-                    </div>
-                )}
-                {children}
-            </main>
+      <main className="main-content">
+        {contentTitle && (
+          <div className="page-header">
+            {onBack && (
+              <button onClick={onBack} className="back-button">
+                &larr; Back
+              </button>
+            )}
+            <h2 className="content-title">{contentTitle}</h2>
+          </div>
+        )}
+        {children}
+      </main>
 
-            <footer className="app-footer">
-                <p>&copy; {new Date().getFullYear()} ABL Price Compliance Checker</p>
-            </footer>
+      <footer className="app-footer">
+        <p>&copy; {new Date().getFullYear()} ABL Price Compliance Checker</p>
+      </footer>
 
-            <style>{`
+      <style>{`
         .layout-container {
           display: flex;
           flex-direction: column;
@@ -156,9 +156,36 @@ const Layout = ({ children, title = "Price Compliance", contentTitle, onBack, on
             width: 20px;
             height: 20px;
         }
+
+        @media (max-width: 600px) {
+            .app-header {
+                padding: 0.75rem 1rem;
+            }
+            .header-content {
+                padding: 0;
+            }
+            .app-title {
+                font-size: 1rem;
+            }
+            .app-icon {
+                width: 24px;
+                height: 24px;
+            }
+            .page-header {
+                margin-bottom: 1rem;
+                gap: 0.5rem;
+            }
+            .back-button {
+                padding: 0.4rem 0.8rem;
+                font-size: 0.9rem;
+            }
+            .content-title {
+                font-size: 1.2rem;
+            }
+        }
       `}</style>
-        </div>
-    );
+    </div>
+  );
 };
 
 export default Layout;

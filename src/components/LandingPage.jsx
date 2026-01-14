@@ -184,18 +184,52 @@ const LandingPage = ({ onEnter }) => {
         }
 
         @media (max-width: 600px) {
+            .landing-content {
+                padding: 1rem;
+            }
             .feature-cards {
-                flex-direction: column;
-                padding: 2rem;
-                gap: 2rem;
+                /* Keep row direction like desktop, but scale down */
+                flex-direction: row;
+                padding: 1rem;
+                gap: 1rem;
+                margin-bottom: 2rem;
+                width: 100%;
+                max-width: 100%;
+            }
+            .feature-card h3 {
+                font-size: 1rem; /* Smaller font */
+            }
+            .icon-wrapper {
+                width: 50px;
+                height: 50px;
+                margin-bottom: 0.5rem;
+            }
+            .feature-icon {
+                width: 24px;
+                height: 24px;
             }
             .divider {
-                width: 100px;
-                height: 1px;
-                margin: 0;
+                /* Keep vertical divider, but shorter */
+                width: 1px;
+                height: 60px;
+                margin: 0 0.5rem;
             }
             .landing-logo {
-                width: 250px;
+                width: 180px;
+            }
+            .logo-wrapper {
+                margin-bottom: 1.5rem;
+            }
+            .sub-headline {
+                font-size: 0.8rem;
+                margin-bottom: 2rem;
+                letter-spacing: 1px;
+            }
+            .enter-button {
+                padding: 1rem 2rem;
+                font-size: 1rem;
+                width: auto;
+                min-width: 200px;
             }
         }
       `}</style>

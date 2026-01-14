@@ -24,11 +24,11 @@ const LeafletMap = ({ className, outlets, onRegionSelect }) => {
         <div className={className} style={{ height: '100%', width: '100%', borderRadius: '12px', overflow: 'hidden' }}>
             <MapContainer
                 center={ghanaCenter}
-                zoom={7}
+                zoom={window.innerWidth < 768 ? 6 : 7}
                 scrollWheelZoom={true}
                 style={{ height: '100%', width: '100%' }}
                 zoomControl={false}
-                minZoom={6}
+                minZoom={5}
                 maxBounds={[
                     [4.5, -3.5], // Southwest
                     [11.5, 1.5]  // Northeast
