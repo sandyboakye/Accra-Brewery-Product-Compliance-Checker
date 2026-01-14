@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name": "STELLA ARTOIS DRAUGHT",
+    "displayName": "STELLA ARTOIS DRAUGHT",
+    "category": "Bubra",
+    "type": "30lts",
+    "priceRetail": "1,200 GHC",
+    "image": "/images/products/STELLA ARTOIS DRAUGHT.jpg"
+  },
+  {
+    "id": 2,
+    "name": "STELLA ARTOIS NRB PK",
+    "displayName": "STELLA ARTOIS NRB",
+    "category": "Crates/Packs",
+    "type": "330ml x 24",
+    "priceRetail": "457 GHC",
+    "image": "/images/products/STELLA ARTOIS NRB PK.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "CORONA NRB PK",
+    "displayName": "CORONA NRB",
+    "category": "Crates/Packs",
+    "type": "355ml x 24",
+    "priceRetail": "536 GHC",
+    "image": "/images/products/CORONA NRB PK.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "BUDWEISER NRB PK",
+    "displayName": "BUDWEISER NRB",
+    "category": "Crates/Packs",
+    "type": "355ml x 24",
+    "priceRetail": "440 GHC",
+    "image": "/images/products/BUDWEISER NRB PK.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "CASTLE LITE CAN PK",
+    "displayName": "CASTLE LITE CAN",
+    "category": "Crates/Packs",
+    "type": "500ml x 24",
+    "priceRetail": "440 GHC",
+    "image": "/images/products/CASTLE LITE CAN PK.png"
+  },
+  {
+    "id": 6,
+    "name": "BRUTAL FRUIT NRB PK",
+    "displayName": "BRUTAL FRUIT NRB",
+    "category": "Crates/Packs",
+    "type": "270ml x 24",
+    "priceRetail": "390 GHC",
+    "image": "/images/products/BRUTAL FRUIT NRB PK.jpg"
+  },
+  {
+    "id": 7,
+    "name": "BRUTAL FRUIT CAN PK",
+    "displayName": "BRUTAL FRUIT CAN",
+    "category": "Crates/Packs",
+    "type": "500ml x 24",
+    "priceRetail": "440 GHC",
+    "image": "/images/products/Brutal Fruit Can PK.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "CLUB DRAUGHT",
+    "displayName": "CLUB DRAUGHT",
+    "category": "Bubra",
+    "type": "30lts",
+    "priceRetail": "576 GHC",
+    "image": "/images/products/CLUB DRAUGHT.jpg"
+  },
+  {
+    "id": 9,
+    "name": "CLUB LARGE PK",
+    "displayName": "CLUB LARGE",
+    "category": "Crates/Packs",
+    "type": "625ml x 12",
+    "priceRetail": "144 GHC",
+    "image": "/images/products/CLUB LARGE PK.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "CLUB MINI PK",
+    "displayName": "CLUB MINI",
+    "category": "Crates/Packs",
+    "type": "330ml x 24",
+    "priceRetail": "184 GHC",
+    "image": "/images/products/CLUB MINI PK.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "CLUB NRB PK",
+    "displayName": "CLUB NRB",
+    "category": "Crates/Packs",
+    "type": "330ml x 24",
+    "priceRetail": "210 GHC",
+    "image": "/images/products/CLUB NRB PK.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "SHANDY MINI PK",
+    "displayName": "SHANDY MINI",
+    "category": "Crates/Packs",
+    "type": "330ml x 24",
+    "priceRetail": "176 GHC",
+    "image": "/images/products/SHANDY MINI PK.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "SHANDY LARGE PK",
+    "displayName": "SHANDY LARGE",
+    "category": "Crates/Packs",
+    "type": "500ml x 12",
+    "priceRetail": "109 GHC",
+    "image": "/images/products/SHANDY LARGE PK.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "SHANDY NRB PK",
+    "displayName": "SHANDY NRB",
+    "category": "Crates/Packs",
+    "type": "330ml x 24",
+    "priceRetail": "200 GHC",
+    "image": "/images/products/SHANDY NRB PK.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "EAGLE LAGER PK",
+    "displayName": "EAGLE LAGER",
+    "category": "Crates/Packs",
+    "type": "375ml x 24",
+    "priceRetail": "158 GHC",
+    "image": "/images/products/EAGLE LAGER PK.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "EAGLE EXTRA STOUT PK",
+    "displayName": "EAGLE EXTRA STOUT",
+    "category": "Crates/Packs",
+    "type": "375ml x 24",
+    "priceRetail": "177 GHC",
+    "image": "/images/products/EAGLE EXTRA STOUT PK.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "BETA MALT PK",
+    "displayName": "BETA MALT",
+    "category": "Crates/Packs",
+    "type": "330ml x 24",
+    "priceRetail": "154 GHC",
+    "image": "/images/products/BETA MALT PK.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "BETA MALT PET PK",
+    "displayName": "BETA MALT PET",
+    "category": "Crates/Packs",
+    "type": "330ml x 12",
+    "priceRetail": "90 GHC",
+    "image": "/images/products/BETA MALT PET PK.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "BETA MALT",
+    "displayName": "BETA MALT",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "8 GHC",
+    "image": "/images/products/BETA MALT.jpg"
+  },
+  {
+    "id": 20,
+    "name": "BETA MALT PET",
+    "displayName": "BETA MALT PET",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "9 GHC",
+    "image": "/images/products/BETA MALT PET.jpg"
+  },
+  {
+    "id": 21,
+    "name": "BRUTAL FRUIT CAN",
+    "displayName": "BRUTAL FRUIT CAN",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "22 GHC",
+    "image": "/images/products/BRUTAL FRUIT CAN.png"
+  },
+  {
+    "id": 22,
+    "name": "BRUTAL FRUIT NRB",
+    "displayName": "BRUTAL FRUIT NRB",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "20 GHC",
+    "image": "/images/products/BRUTAL FRUIT NRB.jpg"
+  },
+  {
+    "id": 23,
+    "name": "BUDWEISER NRB",
+    "displayName": "BUDWEISER NRB",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "22 GHC",
+    "image": "/images/products/BUDWEISER NRB.jpg"
+  },
+  {
+    "id": 24,
+    "name": "CASTLE LITE CAN",
+    "displayName": "CASTLE LITE CAN",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "22 GHC",
+    "image": "/images/products/CASTLE LITE CAN.png"
+  },
+  {
+    "id": 25,
+    "name": "CLUB DRAUGHT PG",
+    "displayName": "CLUB DRAUGHT",
+    "category": "Bubra",
+    "type": "Per Glass",
+    "priceRetail": "12 GHC",
+    "image": "/images/products/CLUB DRAUGHT PG.jpeg"
+  },
+  {
+    "id": 26,
+    "name": "CLUB LARGE",
+    "displayName": "CLUB LARGE",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "16 GHC",
+    "image": "/images/products/Club Lager 625ml.jpg"
+  },
+  {
+    "id": 27,
+    "name": "CLUB MINI",
+    "displayName": "CLUB MINI",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "11 GHC",
+    "image": "/images/products/Club Lager 330ml.jpg"
+  },
+  {
+    "id": 28,
+    "name": "CLUB NRB",
+    "displayName": "CLUB NRB",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "11 GHC",
+    "image": "/images/products/CLUB NRB.jpg"
+  },
+  {
+    "id": 29,
+    "name": "CORONA NRB",
+    "displayName": "CORONA NRB",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "26 GHC",
+    "image": "/images/products/CORONA NRB.jpg"
+  },
+  {
+    "id": 30,
+    "name": "EAGLE EXTRA STOUT",
+    "displayName": "EAGLE EXTRA STOUT",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "10 GHC",
+    "image": "/images/products/EAGLE EXTRA STOUT.jpg"
+  },
+  {
+    "id": 31,
+    "name": "EAGLE LAGER",
+    "displayName": "EAGLE LAGER",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "9 GHC",
+    "image": "/images/products/EAGLE LAGER.jpg"
+  },
+  {
+    "id": 32,
+    "name": "SHANDY LARGE",
+    "displayName": "SHANDY LARGE",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "12 GHC",
+    "image": "/images/products/SHANDY LARGE.jpg"
+  },
+  {
+    "id": 33,
+    "name": "SHANDY MINI",
+    "displayName": "SHANDY MINI",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "10 GHC",
+    "image": "/images/products/SHANDY MINI.jpg"
+  },
+  {
+    "id": 34,
+    "name": "SHANDY NRB",
+    "displayName": "SHANDY NRB",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "10 GHC",
+    "image": "/images/products/SHANDY NRB.jpg"
+  },
+  {
+    "id": 35,
+    "name": "STELLA ARTOIS DRAUGHT PG",
+    "displayName": "STELLA ARTOIS DRAUGHT",
+    "category": "Bubra",
+    "type": "Per Glass",
+    "priceRetail": "32 GHC",
+    "image": "/images/products/STELLA ARTOIS DRAUGHT PG.jpeg"
+  },
+  {
+    "id": 36,
+    "name": "STELLA ARTOIS NRB",
+    "displayName": "STELLA ARTOIS NRB",
+    "category": "Singles",
+    "type": "SINGLE",
+    "priceRetail": "24 GHC",
+    "image": "/images/products/STELLA ARTOIS NRB.jpg"
+  }
+]

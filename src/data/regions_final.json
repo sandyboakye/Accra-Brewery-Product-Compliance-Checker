@@ -1,0 +1,249 @@
+[
+  {
+    "id": "ahafo-region",
+    "name": "Ahafo Region",
+    "districts": [
+      "Asunafo North",
+      "Asunafo South",
+      "Asutifi North",
+      "Asutifi South",
+      "Tano North",
+      "Tano South"
+    ]
+  },
+  {
+    "id": "ashanti-region",
+    "name": "Ashanti Region",
+    "districts": [
+      "Asante Akim Central",
+      "Asante Akim North",
+      "Asante Akim South",
+      "Asokore Mampong",
+      "Bekwai",
+      "Ejisu",
+      "Kumasi Metropolitan",
+      "Kwadaso",
+      "Obuasi",
+      "Oforikrom",
+      "Suame",
+      "Tafo"
+    ]
+  },
+  {
+    "id": "bono-east-region",
+    "name": "Bono East Region",
+    "districts": [
+      "Atebubu-Amantin",
+      "Kintampo North",
+      "Kintampo South",
+      "Nkoranza North",
+      "Nkoranza South",
+      "Pru East",
+      "Pru West",
+      "Sene East",
+      "Sene West",
+      "Techiman Municipal",
+      "Techiman North"
+    ]
+  },
+  {
+    "id": "bono-region",
+    "name": "Bono Region",
+    "districts": [
+      "Berekum East",
+      "Berekum West",
+      "Dormaa Central",
+      "Dormaa East",
+      "Dormaa West",
+      "Jaman North",
+      "Jaman South",
+      "Sunyani Municipal",
+      "Sunyani West",
+      "Wenchi"
+    ]
+  },
+  {
+    "id": "central-region",
+    "name": "Central Region",
+    "districts": [
+      "Abura-Asebu-Kwamankese",
+      "Agona West",
+      "Assin North",
+      "Assin South",
+      "Awutu Senya East",
+      "Cape Coast Metropolitan",
+      "Effutu Municipal",
+      "Komenda-Edina-Eguafo-Abirem",
+      "Mfantseman"
+    ]
+  },
+  {
+    "id": "eastern-region",
+    "name": "Eastern Region",
+    "districts": [
+      "Akuapim North",
+      "Akuapim South",
+      "Ayensuano",
+      "Birim Central",
+      "Kwahu South",
+      "New Juaben North",
+      "New Juaben South",
+      "Nsawam Adoagyiri",
+      "Suhum",
+      "West Akim"
+    ]
+  },
+  {
+    "id": "greater-accra-region",
+    "name": "Greater Accra Region",
+    "districts": [
+      "Accra Metropolitan",
+      "Adenta Municipal",
+      "Ga Central",
+      "Ga East",
+      "Ga South",
+      "Ga West",
+      "Krowor",
+      "La Dade Kotopon",
+      "Ledzokuku",
+      "Tema Metropolitan"
+    ]
+  },
+  {
+    "id": "north-east-region",
+    "name": "North East Region",
+    "districts": [
+      "Bunkpurugu-Nakpanduri",
+      "Chereponi",
+      "East Mamprusi",
+      "Mamprugu Moagduri",
+      "West Mamprusi",
+      "Yunyoo-Nasuan"
+    ]
+  },
+  {
+    "id": "northern-region",
+    "name": "Northern Region",
+    "districts": [
+      "Kpandai",
+      "Nanumba North",
+      "Nanumba South",
+      "Saboba",
+      "Sagnarigu",
+      "Tamale Metropolitan",
+      "Tatale-Sanguli",
+      "Yendi",
+      "Zabzugu"
+    ]
+  },
+  {
+    "id": "oti-region",
+    "name": "Oti Region",
+    "districts": [
+      "Biakoye",
+      "Guan",
+      "Jasikan",
+      "Kadjebi",
+      "Krachi East",
+      "Krachi Nchumuru",
+      "Krachi West",
+      "Nkwanta North",
+      "Nkwanta South"
+    ]
+  },
+  {
+    "id": "savannah-region",
+    "name": "Savannah Region",
+    "districts": [
+      "Bole",
+      "Central Gonja",
+      "East Gonja",
+      "North East Gonja",
+      "North Gonja",
+      "Sawla-Tuna-Kalba",
+      "West Gonja"
+    ]
+  },
+  {
+    "id": "upper-east-region",
+    "name": "Upper East Region",
+    "districts": [
+      "Bawku Municipal",
+      "Bawku West",
+      "Binduri",
+      "Bolgatanga East",
+      "Bolgatanga Municipal",
+      "Builsa North",
+      "Builsa South",
+      "Kassena-Nankana Municipal",
+      "Kassena-Nankana West"
+    ]
+  },
+  {
+    "id": "upper-west-region",
+    "name": "Upper West Region",
+    "districts": [
+      "Dafiama-Bussie-Issa",
+      "Jirapa",
+      "Lambussie",
+      "Lawra",
+      "Nandom",
+      "Sissala East",
+      "Sissala West",
+      "Wa East",
+      "Wa Municipal",
+      "Wa West"
+    ]
+  },
+  {
+    "id": "volta-region",
+    "name": "Volta Region",
+    "districts": [
+      "Adaklu",
+      "Agotime-Ziope",
+      "Akatsi North",
+      "Akatsi South",
+      "Anloga",
+      "Central Tongu",
+      "Ho Municipal",
+      "Ho West",
+      "Keta Municipal",
+      "Ketu North",
+      "Ketu South",
+      "North Tongu",
+      "South Tongu"
+    ]
+  },
+  {
+    "id": "western-north-region",
+    "name": "Western North Region",
+    "districts": [
+      "Akontombra",
+      "Aowin",
+      "Bia East",
+      "Bia West",
+      "Bibiani-Anhwiaso-Bekwai",
+      "Bodi",
+      "Juaboso",
+      "Sefwi Wiawso",
+      "Suaman"
+    ]
+  },
+  {
+    "id": "western-region",
+    "name": "Western Region",
+    "districts": [
+      "Ahanta West",
+      "Effia-Kwesimintsim",
+      "Ellembelle",
+      "Jomoro",
+      "Nzema East",
+      "Prestea-Huni Valley",
+      "Sekondi-Takoradi Metropolitan",
+      "Tarkwa-Nsuaem",
+      "Wassa Amenfi Central",
+      "Wassa Amenfi East",
+      "Wassa Amenfi West"
+    ]
+  }
+]

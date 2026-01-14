@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Zakour Annex",
+    "coordinates": {
+      "lat": 10.804339,
+      "lng": -0.8466308
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 2,
+    "name": "Bantama Spot",
+    "coordinates": {
+      "lat": 10.80398,
+      "lng": -0.87444
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 3,
+    "name": "sokabisi park view",
+    "coordinates": {
+      "lat": 10.7909672,
+      "lng": -0.8803445
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 4,
+    "name": "Brother Man Guest House",
+    "coordinates": {
+      "lat": 10.82548,
+      "lng": -0.949
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 5,
+    "name": "Ruth Top",
+    "coordinates": {
+      "lat": 10.8151102,
+      "lng": -0.852899
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 6,
+    "name": "Asong Bolga.",
+    "coordinates": {
+      "lat": 10.8096169,
+      "lng": -0.8549855
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 7,
+    "name": "Sarafina spot",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 8,
+    "name": "Lizy spot",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 9,
+    "name": "Decency spot",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 10,
+    "name": "Prisons canteen",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 11,
+    "name": "City pub",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 12,
+    "name": "Super manbos",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 13,
+    "name": "Feel at home spot",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 14,
+    "name": "WONNUO SPOT",
+    "coordinates": {
+      "lat": 10.04811,
+      "lng": -2.51648
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 15,
+    "name": "TIMPOLS SPOT",
+    "coordinates": {
+      "lat": 10.0549,
+      "lng": -2.5047
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 16,
+    "name": "Planners spot",
+    "coordinates": {
+      "lat": 10.454053164485972,
+      "lng": -2.2412649925233645
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 17,
+    "name": "Ave maria spot",
+    "coordinates": {
+      "lat": 10.5103851,
+      "lng": -0.3641731
+    },
+    "region": "North East Region",
+    "district": "East Mamprusi"
+  },
+  {
+    "id": 18,
+    "name": "moonlite guest house",
+    "coordinates": {
+      "lat": 10.454053164485972,
+      "lng": -2.2412649925233645
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 19,
+    "name": "May Fair Square",
+    "coordinates": {
+      "lat": 10.89185,
+      "lng": -1.08048
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 20,
+    "name": "Everest Junction spot",
+    "coordinates": {
+      "lat": 10.8789608,
+      "lng": -1.1067398
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 21,
+    "name": "VRA View",
+    "coordinates": {
+      "lat": 10.89142,
+      "lng": -1.08802
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 22,
+    "name": "PrisonsCanteen-Navrongo",
+    "coordinates": {
+      "lat": 10.8962,
+      "lng": -1.09079
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 23,
+    "name": "Chill up spot",
+    "coordinates": {
+      "lat": 10.908849,
+      "lng": -1.0542988
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 24,
+    "name": "Teachers Bar",
+    "coordinates": {
+      "lat": 10.8955345,
+      "lng": -1.0919493
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 25,
+    "name": "Cheers wine",
+    "coordinates": {
+      "lat": 10.73308,
+      "lng": -1.28475
+    },
+    "region": "Upper East Region",
+    "district": "Builsa North"
+  },
+  {
+    "id": 26,
+    "name": "Abena Boame",
+    "coordinates": {
+      "lat": 10.73354,
+      "lng": -1.28674
+    },
+    "region": "Upper East Region",
+    "district": "Builsa North"
+  },
+  {
+    "id": 27,
+    "name": "Swinging",
+    "coordinates": {
+      "lat": 10.658281,
+      "lng": -1.2639041
+    },
+    "region": "Upper East Region",
+    "district": "Builsa North"
+  },
+  {
+    "id": 28,
+    "name": "Little Ways",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 29,
+    "name": "24hrs Bar",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 30,
+    "name": "New world Bar and Restaurant Tinga",
+    "coordinates": {
+      "lat": 8.599991,
+      "lng": -2.239984
+    },
+    "region": "Savannah Region",
+    "district": "Bole"
+  },
+  {
+    "id": 31,
+    "name": "Aliza Wasum Guest House",
+    "coordinates": {
+      "lat": 9.268263,
+      "lng": -2.4180233
+    },
+    "region": "Savannah Region",
+    "district": "Sawla-Tuna-Kalba"
+  },
+  {
+    "id": 32,
+    "name": "Guardian spot Bole",
+    "coordinates": {
+      "lat": 9.035307,
+      "lng": -2.4903889
+    },
+    "region": "Savannah Region",
+    "district": "Bole"
+  },
+  {
+    "id": 33,
+    "name": "Troop In Bole",
+    "coordinates": {
+      "lat": 9.027173,
+      "lng": -2.49768
+    },
+    "region": "Savannah Region",
+    "district": "Bole"
+  },
+  {
+    "id": 34,
+    "name": "Green Lodge Bole",
+    "coordinates": {
+      "lat": 9.048501,
+      "lng": -2.4883614
+    },
+    "region": "Savannah Region",
+    "district": "Bole"
+  },
+  {
+    "id": 35,
+    "name": "Luxury Base",
+    "coordinates": {
+      "lat": 10.805648,
+      "lng": -0.8458936
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 36,
+    "name": "Smile Pub",
+    "coordinates": {
+      "lat": 10.8027714,
+      "lng": -0.8746437
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 37,
+    "name": "Di - Cameo Spot & Others",
+    "coordinates": {
+      "lat": 10.8026347,
+      "lng": -0.8657806
+    },
+    "region": "Upper East Region",
+    "district": "Bolgatanga Municipal"
+  },
+  {
+    "id": 38,
+    "name": "K. E spot",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 39,
+    "name": "LAWRENCE SPOT",
+    "coordinates": {
+      "lat": 10.0401,
+      "lng": -2.5229
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 40,
+    "name": "BAGGYS",
+    "coordinates": {
+      "lat": 10.535,
+      "lng": -2.7006
+    },
+    "region": "Upper West Region",
+    "district": "Jirapa"
+  },
+  {
+    "id": 41,
+    "name": "FELMART SUNSET",
+    "coordinates": {
+      "lat": 10.0333,
+      "lng": -2.5012
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 42,
+    "name": "Swinging Spot",
+    "coordinates": {
+      "lat": 10.658281,
+      "lng": -1.2639041
+    },
+    "region": "Upper East Region",
+    "district": "Builsa North"
+  },
+  {
+    "id": 43,
+    "name": "Cheers wine",
+    "coordinates": {
+      "lat": 10.73308,
+      "lng": -1.28475
+    },
+    "region": "Upper East Region",
+    "district": "Builsa North"
+  },
+  {
+    "id": 44,
+    "name": "Pupeelum",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 45,
+    "name": "24hrs Bar",
+    "coordinates": {
+      "lat": 9.187318334867149,
+      "lng": -0.17311119539857428
+    },
+    "region": "Northern Region",
+    "district": "Tamale Metropolitan"
+  },
+  {
+    "id": 46,
+    "name": "Brother's pot",
+    "coordinates": {
+      "lat": 10.454053164485972,
+      "lng": -2.2412649925233645
+    },
+    "region": "Upper West Region",
+    "district": "Wa Municipal"
+  },
+  {
+    "id": 47,
+    "name": "Chill up",
+    "coordinates": {
+      "lat": 10.908849,
+      "lng": -1.0542988
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 48,
+    "name": "Charity Spot",
+    "coordinates": {
+      "lat": 10.924848,
+      "lng": -1.0891615
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 49,
+    "name": "Meet me There",
+    "coordinates": {
+      "lat": 10.90797,
+      "lng": -1.07235
+    },
+    "region": "Upper East Region",
+    "district": "Kassena-Nankana Municipal"
+  },
+  {
+    "id": 50,
+    "name": "KINGS BAR",
+    "coordinates": {
+      "lat": 5.715545,
+      "lng": 0.105578
+    },
+    "region": "Greater Accra Region",
+    "district": "Ningo Prampram"
+  },
+  {
+    "id": 51,
+    "name": "V PUB",
+    "coordinates": {
+      "lat": 5.708166,
+      "lng": 0.107703
+    },
+    "region": "Greater Accra Region",
+    "district": "Ningo Prampram"
+  },
+  {
+    "id": 52,
+    "name": "NEXT DOOR PUB",
+    "coordinates": {
+      "lat": 5.718206,
+      "lng": 0.127552
+    },
+    "region": "Greater Accra Region",
+    "district": "Ningo Prampram"
+  },
+  {
+    "id": 53,
+    "name": "PALACE INN",
+    "coordinates": {
+      "lat": 5.698053,
+      "lng": 0.035848
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 54,
+    "name": "HUNTERS PUB",
+    "coordinates": {
+      "lat": 5.69454,
+      "lng": 0.056889
+    },
+    "region": "Greater Accra Region",
+    "district": "Kpone Katamanso"
+  },
+  {
+    "id": 55,
+    "name": "COCA - COLA",
+    "coordinates": {
+      "lat": 5.689878,
+      "lng": 0.058031
+    },
+    "region": "Greater Accra Region",
+    "district": "Kpone Katamanso"
+  },
+  {
+    "id": 56,
+    "name": "MODIC SPOT(B1)",
+    "coordinates": {
+      "lat": 5.800943,
+      "lng": 0.00491
+    },
+    "region": "Greater Accra Region",
+    "district": "Ningo Prampram"
+  },
+  {
+    "id": 57,
+    "name": "MAMA ZIMBI(A2)",
+    "coordinates": {
+      "lat": 6.716255614153135,
+      "lng": 0.5556387269141528
+    },
+    "region": "Volta Region",
+    "district": "Ho Municipal"
+  },
+  {
+    "id": 58,
+    "name": "WEEKENDS",
+    "coordinates": {
+      "lat": 5.70953,
+      "lng": -0.005201
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 59,
+    "name": "OBAA SIMA",
+    "coordinates": {
+      "lat": 5.716244,
+      "lng": -0.055224
+    },
+    "region": "Greater Accra Region",
+    "district": "Kpone Katamanso"
+  },
+  {
+    "id": 60,
+    "name": "MABEES PUB",
+    "coordinates": {
+      "lat": 5.724949,
+      "lng": -0.001608
+    },
+    "region": "Greater Accra Region",
+    "district": "Kpone Katamanso"
+  },
+  {
+    "id": 61,
+    "name": "CUSTOMER BAR 2",
+    "coordinates": {
+      "lat": 5.697078,
+      "lng": -0.035334
+    },
+    "region": "Greater Accra Region",
+    "district": "Ashaiman Municipal"
+  },
+  {
+    "id": 62,
+    "name": "SECRET CAVE",
+    "coordinates": {
+      "lat": 5.694481,
+      "lng": -0.002326
+    },
+    "region": "Greater Accra Region",
+    "district": "Ashaiman Municipal"
+  },
+  {
+    "id": 63,
+    "name": "BIG NII SPOT",
+    "coordinates": {
+      "lat": 5.695985,
+      "lng": -0.034203
+    },
+    "region": "Greater Accra Region",
+    "district": "Ashaiman Municipal"
+  },
+  {
+    "id": 64,
+    "name": "BAMBOO INN",
+    "coordinates": {
+      "lat": 5.710373,
+      "lng": -0.03743
+    },
+    "region": "Greater Accra Region",
+    "district": "Ashaiman Municipal"
+  },
+  {
+    "id": 65,
+    "name": "ONE DAY BUSH CANTEEN",
+    "coordinates": {
+      "lat": 5.752839,
+      "lng": -0.023914
+    },
+    "region": "Greater Accra Region",
+    "district": "Kpone Katamanso"
+  },
+  {
+    "id": 66,
+    "name": "Emefa spot",
+    "coordinates": {
+      "lat": 5.686346,
+      "lng": -0.149537
+    },
+    "region": "Greater Accra Region",
+    "district": "La Nkwantanang Madina"
+  },
+  {
+    "id": 67,
+    "name": "La Spot",
+    "coordinates": {
+      "lat": 5.683914,
+      "lng": -0.149757
+    },
+    "region": "Greater Accra Region",
+    "district": "La Nkwantanang Madina"
+  },
+  {
+    "id": 68,
+    "name": "A.Y SPOT",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 69,
+    "name": "OXYFORD SPOT",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 70,
+    "name": "DO YOUR OWN THING ANNEX",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 71,
+    "name": "LOVERS INN",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 72,
+    "name": "GINSTELL SPOT",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 73,
+    "name": "GUTENS PUB",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 74,
+    "name": "EVEN ME",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 75,
+    "name": "CHARSAN",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 76,
+    "name": "AFRICANA",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 77,
+    "name": "GINSTELL ROOFTOP",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 78,
+    "name": "OXYFORD ENT",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 79,
+    "name": "AFRICANA ANNEX",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 80,
+    "name": "AGOLOGO SPOT",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 81,
+    "name": "TIME IS MONEY",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Tema Metropolitan"
+  },
+  {
+    "id": 82,
+    "name": "Berullen Pub",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 83,
+    "name": "Small London",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 84,
+    "name": "X-5 Plaza",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 85,
+    "name": "Golden Dream Spot",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 86,
+    "name": "Fizzles Pub",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 87,
+    "name": "Kings Bar",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 88,
+    "name": "My Refuge",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 89,
+    "name": "Tsui Ni Anaa",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 90,
+    "name": "C.Connie",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 91,
+    "name": "Just A minute",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 92,
+    "name": "Second Level",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 93,
+    "name": "Freeky Joint",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 94,
+    "name": "Mother's Inn",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 95,
+    "name": "Triple Jay",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Accra Metropolitan"
+  },
+  {
+    "id": 96,
+    "name": "Nyoomo Dromo",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 97,
+    "name": "De-Forest Pub & Grill",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 98,
+    "name": "Efie Ne Fie",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 99,
+    "name": "Korea Spot",
+    "coordinates": {
+      "lat": 5.820270544190135,
+      "lng": -1.5306128663732401
+    },
+    "region": "Central Region",
+    "district": "Awutu Senya East"
+  },
+  {
+    "id": 100,
+    "name": "Sweet Mother",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 101,
+    "name": "Kiss Corner",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 102,
+    "name": "One Corner",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 103,
+    "name": "Tema Coded",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 104,
+    "name": "Home Sweet Home",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 105,
+    "name": "Rest Stop",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 106,
+    "name": "Granny's bar",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 107,
+    "name": "London Base",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 108,
+    "name": "3 Sisters",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Ellembelle"
+  },
+  {
+    "id": 109,
+    "name": "The Big 6 Pub",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Ellembelle"
+  },
+  {
+    "id": 110,
+    "name": "Lee's Pub",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Ellembelle"
+  },
+  {
+    "id": 111,
+    "name": "Adom Gardens",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Ellembelle"
+  },
+  {
+    "id": 112,
+    "name": "Beach Comba",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Nzema East"
+  },
+  {
+    "id": 113,
+    "name": "New Wavez",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Nzema East"
+  },
+  {
+    "id": 114,
+    "name": "Magov",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 115,
+    "name": "MIDDLE SPOT(B2)",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 116,
+    "name": "AFRIKIKO(A2)",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 117,
+    "name": "404 SPOT(B3)",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 118,
+    "name": "Korkor KK",
+    "coordinates": {
+      "lat": 6.124013186923075,
+      "lng": -2.8262696969230796
+    },
+    "region": "Western Region",
+    "district": "Sekondi-Takoradi Metropolitan"
+  },
+  {
+    "id": 119,
+    "name": "Lover's Inn",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 120,
+    "name": "De Executive Pub",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga Central"
+  },
+  {
+    "id": 121,
+    "name": "Vicky Gyang Ent.",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 122,
+    "name": "VARIETY PUB(C2)",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 123,
+    "name": "GOOD FRIENDS(B2)",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga South"
+  },
+  {
+    "id": 124,
+    "name": "Adehyie",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 125,
+    "name": "De Bosses Pub",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 126,
+    "name": "Fafa's Spot",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 127,
+    "name": "Queens Pub",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 128,
+    "name": "Blue Orange",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 129,
+    "name": "KG Pub",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 130,
+    "name": "Ginash Pub",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 131,
+    "name": "Anointing Spot",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  },
+  {
+    "id": 132,
+    "name": "Lover's Bar",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga Central"
+  },
+  {
+    "id": 133,
+    "name": "Green Palace",
+    "coordinates": {
+      "lat": 5.731486818061112,
+      "lng": -0.0011853315222222762
+    },
+    "region": "Greater Accra Region",
+    "district": "Ga West"
+  }
+]
