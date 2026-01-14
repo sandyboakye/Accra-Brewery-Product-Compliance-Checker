@@ -205,16 +205,21 @@ const RegionSelector = ({ regions, outlets, onSelectRegion, onSelectOutlet }) =>
                     margin: 0;
                 }
 
-                @media (max-width: 900px) {
-                    .dashboard-layout {
-                        grid-template-columns: 1fr;
-                        grid-template-rows: 1fr 1fr; /* Stack: List, Map */
-                        height: calc(100vh - 80px); /* Keep full height */
-                    }
+            @media (max-width: 900px) {
+                .dashboard-layout {
+                    grid-template-columns: 1fr;
+                    grid-template-rows: auto 1fr; /* Stack: List, Map */
+                    margin: 0; /* Reset margin on mobile to prevent overlap */
+                    border-radius: 0;
+                    height: auto;
+                    min-height: calc(100vh - 80px);
+                }
 
-                    .sidebar {
-                         padding: 1rem;
-                    }
+                .sidebar {
+                     padding: 1rem;
+                     order: 2; /* Put list BELOW map */
+                }
+
 
                     .map-container {
                         display: block; /* Show map on mobile */

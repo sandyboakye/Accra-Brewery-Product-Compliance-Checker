@@ -256,6 +256,85 @@ const ProductDisplay = ({ outlet }) => {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
         }
+
+        @media (max-width: 600px) {
+            .outlet-details {
+                padding: 1.5rem;
+            }
+            .outlet-details h3 {
+                font-size: 1.5rem;
+            }
+            
+            /* Tabs Mobile */
+            .tabs-container {
+                flex-wrap: nowrap;
+                overflow-x: auto;
+                justify-content: flex-start;
+                padding-bottom: 0.5rem; /* Space for scrollbar if any */
+                -webkit-overflow-scrolling: touch;
+            }
+            .tab-button {
+                padding: 0.5rem 1rem;
+                white-space: nowrap;
+                font-size: 0.9rem;
+                flex-shrink: 0;
+            }
+
+            /* Products Grid Mobile - 3 Columns with reduced gap */
+            .products-grid {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 0.35rem; /* Tighter gap */
+            }
+
+            .product-card {
+                border-radius: 6px;
+                border: 1px solid #f0f0f0;
+            }
+
+            .product-image-area {
+                height: 70px; /* Smaller image area */
+                padding: 0.25rem;
+                background: #fff;
+            }
+            
+            .product-details {
+                padding: 0.35rem; /* Tighter padding */
+            }
+
+            .product-name {
+                font-size: 0.65rem; /* Smaller font */
+                line-height: 1.1;
+                margin-bottom: 0.1rem;
+                height: 2.2em; /* Fixed height for 2 lines */
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+
+            .product-type {
+                font-size: 0.55rem;
+                margin-bottom: 0.2rem;
+                display: none; /* Hide type to save space if needed, or keep very small */
+            }
+
+            .price-tag {
+                padding: 0.15rem;
+                background: transparent;
+                border: none;
+                margin-top: 0;
+            }
+
+            .price-label {
+                font-size: 0.5rem;
+                display: none; 
+            }
+
+            .price-value {
+                font-size: 0.75rem;
+                font-weight: 700;
+            }
+        }
       `}</style>
         </div>
     );
