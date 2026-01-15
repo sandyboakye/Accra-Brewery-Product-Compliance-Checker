@@ -10,21 +10,23 @@ const DistrictSelector = ({ region, outlets, onSelectDistrict }) => {
     return (
         <div className="district-container">
             <div className="district-grid">
-                {region.districts.map((district, index) => {
-                    const count = getOutletCount(district);
-                    return (
-                        <button
-                            key={index}
-                            className="district-card"
-                            onClick={() => onSelectDistrict(district)}
-                        >
-                            <span className="district-name">{district}</span>
-                            <span className="outlet-count">
-                                {count} {count === 1 ? 'Outlet' : 'Outlets'}
-                            </span>
-                        </button>
-                    );
-                })}
+                {[...region.districts]
+                    .sort((a, b) => getOutletCount(b) - getOutletCount(a))
+                    .map((district, index) => {
+                        const count = getOutletCount(district);
+                        return (
+                            <button
+                                key={index}
+                                className="district-card"
+                                onClick={() => onSelectDistrict(district)}
+                            >
+                                <span className="district-name">{district}</span>
+                                <span className="outlet-count">
+                                    {count} {count === 1 ? 'Outlet' : 'Outlets'}
+                                </span>
+                            </button>
+                        );
+                    })}
             </div>
 
             <style>{`

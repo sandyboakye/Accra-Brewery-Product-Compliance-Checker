@@ -21,6 +21,24 @@ const RegionSelector = ({ regions, outlets, onSelectRegion, onSelectOutlet }) =>
         }
     };
 
+    const sortedRegions = React.useMemo(() => {
+        if (!regions) return [];
+        return [...regions].sort((a, b) => {
+            const getCount = (r) => {
+                if (!outlets) return 0;
+                const normalize = str => str.toLowerCase().replace(' region', '').trim();
+                const rName = normalize(r.name);
+
+                return outlets.filter(o => {
+                    if (!o.region) return false;
+                    const oRegion = normalize(o.region);
+                    return oRegion === rName || oRegion.includes(rName) || rName.includes(oRegion);
+                }).length;
+            };
+            return getCount(b) - getCount(a);
+        });
+    }, [regions, outlets]);
+
     return (
         <div className="dashboard-layout">
             {/* Sidebar Left */}
@@ -30,7 +48,7 @@ const RegionSelector = ({ regions, outlets, onSelectRegion, onSelectOutlet }) =>
 
                 {/* Region List */}
                 <div className="region-list">
-                    {regions.map((region) => {
+                    {sortedRegions.map((region) => {
                         const count = region.districts ? region.districts.length : 0;
                         return (
                             <button
