@@ -32,7 +32,7 @@ const RegionSelector = ({ regions, outlets, onSelectRegion, onSelectOutlet }) =>
                 return outlets.filter(o => {
                     if (!o.region) return false;
                     const oRegion = normalize(o.region);
-                    return oRegion === rName || oRegion.includes(rName) || rName.includes(oRegion);
+                    return oRegion === rName;
                 }).length;
             };
             return getCount(b) - getCount(a);
